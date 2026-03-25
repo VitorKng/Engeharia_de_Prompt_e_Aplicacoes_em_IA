@@ -1,2 +1,75 @@
-# aula-003
+# Aula-003
 Engenharia de Prompt e Aplicações em IA
+
+##  Tema: Estruturas de Repetição
+
+###  Prompt Fácil:
+
+   *1. Eu preciso trocar o pneu do meu carro, como fazer?*
+
+   Passo a passo:
+Segurança primeiro: Pare em um local plano e seguro. Ligue o pisca-alerta, puxe o freio de mão e coloque o triângulo a pelo menos 30 metros de distância.
+
+I. Afrouxe os parafusos: Com o carro ainda no chão, use a chave de roda para girar os parafusos no sentido anti-horário. Não os remova, apenas "quebre" a resistência (pode precisar de um pouco de força com o pé).
+
+II. Posicione o macaco: Encaixe o macaco na parte metálica do chassi (geralmente há uma marca ou vinco perto da roda). Suba o carro até que o pneu furado saia do chão.
+
+III. Troque a roda: Retire os parafusos por completo, remova o pneu furado e encaixe o estepe.
+
+IV. Recoloque os parafusos: Coloque-os de volta com a mão e dê um leve aperto com a chave.
+Aperto final: Abaixe o carro até que o pneu toque o chão. Retire o macaco e agora sim, aperte os parafusos com força máxima, seguindo um padrão em "X" (pule um parafuso para apertar o oposto) para garantir o equilíbrio. 
+
+Dica importante: Lembre-se de levar o pneu furado ao borracheiro logo em seguida e verifique se o seu estepe é de "uso temporário" (que limita a velocidade a 80 km/h).
+
+###  Prompt Médio;
+
+   *2. Eu preciso trocar o pneu do meu carro em um terreno de pequenas depressões no solo e lama, como fazer?*
+
+   Trocar um pneu na lama ou em solo irregular exige cuidados extras para evitar que o macaco afunde ou que o carro escorregue. O segredo é criar uma base de apoio firme e garantir a estabilidade antes de levantar o veículo.
+I. Prepare uma Base Sólida para o Macaco
+O maior risco na lama é o macaco afundar enquanto você ergue o carro.
+Use um calço: Coloque uma superfície plana e resistente embaixo da base do macaco. O ideal é um pedaço de madeira (viga ou tábua grossa) de aproximadamente 20 cm.
+Improviso: Se não tiver madeira, use o próprio tapete do carro dobrado ou pedras chatas e grandes para distribuir o peso e evitar que o macaco penetre no solo macio. 
+II. Estabilize o Veículo
+Em terrenos com depressões, o carro pode se deslocar lateralmente, o que é perigoso. 
+
+Calce as rodas: Coloque pedras, galhos ou o que tiver à mão nas rodas que estão em contato com o solo para impedir que o carro role.
+Engate o carro: Puxe o freio de mão com força e deixe o carro engatado na primeira marcha (ou em P se for automático). 
+
+III. Procedimento de Segurança
+Afrouxe antes: Solte os parafusos da roda (apenas uma ou duas voltas) com o carro ainda no chão. Tentar fazer isso com o carro suspenso em solo instável pode derrubá-lo do macaco.
+Ponto de apoio exato: Certifique-se de que o macaco está perfeitamente encaixado na canaleta metálica do chassi (indicada no manual). Se o solo estiver muito irregular, tente posicionar o macaco na parte mais plana disponível dentro da área de suporte.
+Roda de segurança: Assim que retirar o pneu furado, coloque-o deitado embaixo da carroceria do carro. Se o macaco falhar ou escorregar na lama, o carro cairá sobre a roda e não no chão (ou em você). 
+
+IV. Dicas Extras para Lama
+Calibragem: Se o carro estiver com dificuldade de tração para sair do local após a troca, você pode reduzir levemente a pressão dos pneus (para cerca de 18-25 libras) para aumentar o contato com o solo, mas recalibre assim que chegar ao asfalto.
+
+###  Prompt Complexo:
+
+   *3. Eu preciso trocar o pneu do meu carro Jetta TSI 2.0 Turbo mas em um terreno de pequenas depressões no solo e lama acabei perdendo 3 (três) parafusos, o que fazer?*
+
+Não tente dirigir o carro com apenas 2 parafusos na roda. No Jetta TSI 2.0 Turbo, as rodas utilizam originalmente 5 parafusos. Perder 3 deles significa que a roda está com menos da metade da fixação necessária, o que é extremamente perigoso e pode fazer com que a roda se solte completamente em movimento. 
+
+Aqui está o que você deve fazer para resolver a situação com segurança:
+I. Pegue parafusos das outras rodas (Solução Emergencial)
+Esta é a forma mais rápida de conseguir tirar o carro do local com segurança mínima:
+Vá até as outras três rodas que estão intactas.
+Retire um parafuso de cada uma dessas rodas.
+Use esses 3 parafusos na roda onde você perdeu os originais.
+Resultado: Você terá todas as 4 rodas presas com 4 parafusos cada. Isso é suficiente para dirigir devagar até a borracharia ou autopeças mais próxima para comprar parafusos novos. 
+
+II. Por que não rodar com apenas 2 parafusos?
+Risco de acidente fatal: Com apenas 2 parafusos, a carga sobre eles é excessiva. Eles podem quebrar ou se soltar devido à vibração e ao torque do motor TSI.
+Danos estruturais: A roda pode "dançar" no cubo, deformando os furos da roda de liga leve e destruindo a rosca do cubo de roda, o que tornará o conserto muito mais caro depois.
+Instabilidade: A frenagem e a direção ficam seriamente comprometidas. 
+
+III. Onde comprar os novos parafusos
+Os parafusos do Jetta TSI geralmente têm medida M14 x 1,5 x 27mm com assentamento esférico (para rodas originais). Você pode encontrá-los em: 
+Concessionárias Volkswagen (como a Carrera ou Belcar).
+Lojas de pneus e autopeças especializadas.
+Marketplaces como o Mercado Livre.
+
+####   Reflexão
+
+As instruções mudaram a resposta ao transformar um guia "fácil" em uma solução de riscos. Conforme fui adicionando restrições, desafios e consequências ao meu problema (lama e perda de parafusos), a resposta deixou de ser sobre "como trocar" e passou a ser sobre segurança técnica e improvisação.
+Cada versão de resposta foi útil, pois todas ajudariam a resolver um problema real com uma falha crítica de carros em geral, e, específica do modelo Jetta TSI (retirar e reutilizar parafusos de outras rodas), mas a primeira versão é a que mais atende e auxilia uma situação real oferecendo uma solução prática. Em situações reais de programação, essa técnica de refinamento de contexto é de extrema importância: você começa com um algoritmo base, mas só resolve o problema real quando introduz as "depressões e lama" do sistema adaptando o código para falhar com segurança ou rodar em condições adversas.
