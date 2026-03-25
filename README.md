@@ -46,7 +46,7 @@ Calibragem: Se o carro estiver com dificuldade de tração para sair do local ap
 
 ###  Pergunta Complexa:
 
-   *3. Eu preciso trocar o pneu do meu carro Jetta TSI 2.0 Turbo mas em um terreno de pequenas depressões no solo e lama acabei perdendo 3 (três) parafusos, o que fazer?*
+   *3. Sou um borracheiro experiente, preciso trocar o pneu do meu carro Jetta TSI 2.0 Turbo estou em um terreno de pequenas depressões no solo e lama, acabei perdendo 3 (três) parafusos, não envolva outras soluções, resuma apenas em dois paragrafos a solução definitiva para o problema.*
 
 Não tente dirigir o carro com apenas 2 parafusos na roda. No Jetta TSI 2.0 Turbo, as rodas utilizam originalmente 5 parafusos. Perder 3 deles significa que a roda está com menos da metade da fixação necessária, o que é extremamente perigoso e pode fazer com que a roda se solte completamente em movimento. 
 
