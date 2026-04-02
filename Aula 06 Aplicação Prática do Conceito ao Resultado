@@ -1,0 +1,90 @@
+#  Aula06_Aplicação Prática_Do Conceito ao Resultado Unidade 1 (final) (01/04)
+
+Desafio: Crie um código funcional para calcular a média de notas de um aluno.
+
+##  Versão Neutra:
+
+"Calcule a média de notas de um aluno."
+
+Para calcular a média de um aluno, você soma todas as notas e divide pela quantidade de notas.
+
+Fórmula:
+
+média = (nota1 + nota2 + ... + notaN) / N
+
+Exemplo:
+Se um aluno tirou 7, 8 e 9:
+
+média = (7 + 8 + 9) / 3
+média = 24 / 3
+média = 8
+
+Resultado: média = 8,0
+
+##  Versão Persona:
+
+"Sou um professor arrogante da área de TI de uma Universidade de Ensino, me dê um código funcional para calcular a média de notas de uma turma de alunos."
+
+# Sistema para calcular médias de uma turma
+
+quantidade_alunos = int(input("Quantos alunos há na turma? "))
+quantidade_notas = int(input("Quantas notas por aluno? "))
+
+media_turma = 0
+
+for i in range(quantidade_alunos):
+    print(f"\nAluno {i+1}")
+    soma = 0
+
+    for j in range(quantidade_notas):
+        nota = float(input(f"Digite a nota {j+1}: "))
+        soma += nota
+
+    media_aluno = soma / quantidade_notas
+    media_turma += media_aluno
+
+    print(f"Média do aluno {i+1}: {media_aluno:.2f}")
+
+    if media_aluno >= 7:
+        print("Situação: Aprovado")
+    elif media_aluno >= 5:
+        print("Situação: Recuperação")
+    else:
+        print("Situação: Reprovado")
+
+# Média geral da turma
+media_turma /= quantidade_alunos
+
+print("\n============================")
+print(f"Média geral da turma: {media_turma:.2f}")
+print("============================")
+
+##  Versão Restriva:
+
+"Sou um professor da área de TI de uma Universidade de Ensino, me dê um código funcional para calcular a média de notas de uma turma de alunos. Use apenas saída em Python e não use aplicações em texto."
+
+quantidade_alunos = int(input())
+quantidade_notas = int(input())
+
+media_turma = 0.0
+
+for _ in range(quantidade_alunos):
+    soma = 0.0
+    for _ in range(quantidade_notas):
+        soma += float(input())
+    media_aluno = soma / quantidade_notas
+    media_turma += media_aluno
+    print(f"{media_aluno:.2f}")
+
+media_turma /= quantidade_alunos
+print(f"{media_turma:.2f}")
+
+###  Fluxo de Avaliação
+
+                           | Versão Neutra            | Versão Persona                    | Versão Restritiva     
+
+| **Precisão Lógica**      | Correta, fórmula e exemplo certos. | Correta, código funcional e completo.        | Correta, código funcional.     
+
+| **Clareza e Eficiência** | Muito clara e direta.              | Boa, mas com excesso de informações.         | Muito eficiente e objetiva.      
+
+| **Taxa de Alucinação**   | Nenhuma.                           | Moderada (inclui classificação não pedida).  | Nenhuma.                          
